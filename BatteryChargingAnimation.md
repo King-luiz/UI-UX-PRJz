@@ -1,13 +1,14 @@
 
 ```markdown
+
 # 🔋 Battery Charging Animation
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
 ![Author](https://img.shields.io/badge/Author-Lewins%20Mureithi%20(Luiz)-blue?style=for-the-badge)
 
 ---
-
 
 A sleek and visually appealing *Battery Charging Animation* built entirely using *HTML* and *CSS* — no JavaScript required.  
 This project showcases smooth charging effects, a lightning bolt animation, and realistic plug-and-cable visuals, perfect for learning or demonstrating CSS animation skills.
@@ -70,9 +71,9 @@ A live preview will soon be available on [GitHub Pages](https://king-luiz.github
 
 ## 👨‍💻 Created By
 
-**Author:** [Lewins Mureithi Nderitu (Luiz)](https://github.com/King-luiz)
-**Email:** [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)
-**Contact:** +254 112 876 340
+* **Author:** [Lewins Mureithi Nderitu (Luiz)](https://github.com/King-luiz)
+* **Email:** [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)
+* **Contact:** +254 112 876 340
 
 > © 2025 Created by Luiz – All Rights Reserved
 
