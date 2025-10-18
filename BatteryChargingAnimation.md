@@ -1,6 +1,3 @@
-
-```markdown
-
 # 🔋 Battery Charging Animation
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -10,8 +7,8 @@
 
 ---
 
-A sleek and visually appealing *Battery Charging Animation* built entirely using *HTML* and *CSS* — no JavaScript required.  
-This project showcases smooth charging effects, a lightning bolt animation, and realistic plug-and-cable visuals, perfect for learning or demonstrating CSS animation skills.
+A sleek and visually appealing **Battery Charging Animation** built entirely using **HTML** and **CSS** — no JavaScript required.  
+This project showcases smooth charging effects, a lightning bolt animation, and realistic plug-and-cable visuals — perfect for learning or demonstrating CSS animation skills.
 
 ---
 
@@ -25,10 +22,6 @@ This project showcases smooth charging effects, a lightning bolt animation, and 
 - 🧑‍🎨 **Fully responsive** and clean layout
 
 ---
-
-## 🧠 Project Structure
----
-
 ## 🚀 How to Use
 
 1. **Download or clone this repository**
