@@ -1,0 +1,146 @@
+<!-- Created by Luiz -->
+<html lang="en">
+<head>
+  <title>Battery Charging Animation</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* General Page Styling */
+    body {
+      background: linear-gradient(180deg, #0a0a0a, #1c1c1c);
+      margin: 0;
+      height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      font-family: Arial, sans-serif;
+      color: #fff;
+    }
+
+    h6 {
+      margin-bottom: 20px;
+      color: #aaa;
+      font-size: 0.8rem;
+    }
+
+    /* Battery Container */
+    .battery-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .battery {
+      position: relative;
+      width: 200px;
+      height: 100px;
+      border: 5px solid #e0e8dc;
+      border-radius: 12px;
+      background-color: #111;
+      overflow: hidden;
+      box-shadow: 0px 0px 20px rgba(0, 255, 0, 0.3);
+    }
+
+    /* Battery Tip */
+    .battery-tip {
+      width: 30px;
+      height: 25px;
+      background: grey;
+      margin-top: -5px;
+      border-radius: 4px;
+      box-shadow: 0 0 10px black;
+    }
+
+    /* Charging Bar */
+    .charge {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 0%;
+      background: linear-gradient(180deg, red, yellow, limegreen);
+      animation: charging 6s linear infinite;
+    }
+
+    /* Lightning Bolt */
+    .bolt {
+      position: absolute;
+      top: 25%;
+      left: 42%;
+      font-size: 2rem;
+      animation: blink 1s infinite;
+    }
+
+    /* Cable & Wire */
+    .cable {
+      margin-top: 30px;
+      width: 10px;
+      height: 120px;
+      background: #fff;
+      position: relative;
+    }
+
+    .plug {
+      width: 40px;
+      height: 20px;
+      background: #fff;
+      border-radius: 6px;
+      position: absolute;
+      top: -20px;
+      left: -15px;
+      display: flex;
+      justify-content: space-evenly;
+      align-items: center;
+    }
+
+    .prong {
+      width: 3px;
+      height: 15px;
+      background: black;
+    }
+
+    .brand {
+      margin-top: 8px;
+      font-weight: bold;
+      font-size: 1rem;
+    }
+
+    /* Animations */
+    @keyframes charging {
+      0% { height: 0%; background: red; }
+      25% { height: 30%; background: orange; }
+      50% { height: 60%; background: yellow; }
+      75% { height: 85%; background: #adff2f; }
+      100% { height: 100%; background: limegreen; }
+    }
+
+    @keyframes blink {
+      0%, 50%, 100% { opacity: 1; }
+      25%, 75% { opacity: 0; }
+    }
+  </style>
+</head>
+<body>
+  <h6>©-Created by Luiz</h6>
+
+  <div class="battery-container">
+    <!-- Battery -->
+    <div class="battery">
+      <div class="charge"></div>
+      <div class="bolt">⚡</div>
+    </div>
+    <div class="battery-tip"></div>
+
+    <!-- Cable -->
+    <div class="cable">
+      <div class="plug">
+        <div class="prong"></div>
+        <div class="prong"></div>
+        <div class="prong"></div>
+      </div>
+    </div>
+    <div class="brand">luiz</div>
+  </div>
+</body>
+</html>
