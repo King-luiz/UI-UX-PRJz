@@ -71,9 +71,9 @@ A live preview will soon be available on GitHub Pages
 (Or open index.html directly in your browser to see it in action.)
 
 ## 👨‍💻 Created By
-Author: Lewins Mureithi Nderitu (Luiz)
-Email: mureithilewins@gmail.com
-Contact: +254 112 876 340
+* Author: Lewins Mureithi Nderitu (Luiz)
+* Email: mureithilewins@gmail.com
+* Contact: +254 112 876 340
 
 © 2025 Created by Luiz — All Rights Reserved
 
