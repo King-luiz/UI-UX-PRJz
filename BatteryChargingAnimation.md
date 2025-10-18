@@ -1,5 +1,6 @@
-# 🔋 Battery Charging Animation
 
+```markdown
+# 🔋 Battery Charging Animation
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
@@ -7,8 +8,9 @@
 
 ---
 
-A sleek and visually appealing **Battery Charging Animation** built entirely using **HTML** and **CSS** — no JavaScript required.  
-This project showcases smooth charging effects, a lightning bolt animation, and realistic plug-and-cable visuals — perfect for learning or demonstrating CSS animation skills.
+
+A sleek and visually appealing *Battery Charging Animation* built entirely using *HTML* and *CSS* — no JavaScript required.  
+This project showcases smooth charging effects, a lightning bolt animation, and realistic plug-and-cable visuals, perfect for learning or demonstrating CSS animation skills.
 
 ---
 
@@ -24,15 +26,6 @@ This project showcases smooth charging effects, a lightning bolt animation, and 
 ---
 
 ## 🧠 Project Structure
-
-battery-charging-animation/
-│
-├── index.html # Main HTML file containing the animation structure and styling
-└── BatteryChargingAnimation.md # Project documentation
-
-yaml
-Copy code
-
 ---
 
 ## 🚀 How to Use
@@ -40,41 +33,57 @@ Copy code
 1. **Download or clone this repository**
    ```bash
    git clone https://github.com/King-luiz/battery-charging-animation.git
-Open the project
-Navigate to the folder and open the file index.html in any modern web browser.
+````
 
-Enjoy the animation!
-The battery will automatically animate as if it’s charging.
+2. **Open the project**
+   Navigate to the folder and open the file `index.html` in any modern web browser.
 
-🧩 Customization
-You can easily tweak the animation by editing a few CSS properties:
+3. **Enjoy the animation!**
+   The battery will automatically animate as if it's charging.
 
-Battery size: Adjust width and height in the .battery class.
+---
 
-Animation speed: Change the duration in animation: charging 6s linear infinite;
+## 🧩 Customization
 
-Colors: Modify gradient stops in the @keyframes charging section.
+You can easily tweak:
 
-💻 Technologies Used
-HTML5 – For structuring the battery and plug layout
+* **Battery size:** Adjust `width` and `height` in the `.battery` class.
+* **Animation speed:** Change the duration in `animation: charging 6s linear infinite;`
+* **Colors:** Modify gradient stops in the `@keyframes charging` section.
 
-CSS3 – For styling and animations
+---
 
-Flexbox – For easy alignment and centering
+## 💻 Technologies Used
 
-📸 Preview
-A live preview will soon be available on GitHub Pages
-(Or open index.html directly in your browser.)
+* **HTML5** – For structuring the battery and plug layout
+* **CSS3** – For styling and animations
+* **Flexbox** – For easy alignment and centering
 
-👨‍💻 Created By
-Author: Lewins Mureithi Nderitu (Luiz)
-Email: mureithilewins@gmail.com
-Contact: +254 112 876 340
+---
 
-© 2025 Created by Luiz — All Rights Reserved
+## 📸 Preview
 
-🏷️ License
-This project is licensed under the MIT License — free to use and modify with attribution.
+A live preview will soon be available on [GitHub Pages](https://king-luiz.github.io/)
+*(Or open `index.html` directly in your browser.)*
 
-⭐ Support
+---
+
+## 👨‍💻 Created By
+
+**Author:** [Lewins Mureithi Nderitu (Luiz)](https://github.com/King-luiz)
+**Email:** [mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)
+**Contact:** +254 112 876 340
+
+> © 2025 Created by Luiz – All Rights Reserved
+
+---
+
+## 🏷️ License
+
+This project is licensed under the **MIT License** — free to use and modify with attribution.
+
+---
+
+## ⭐ Support
+
 If you like this project, give it a ⭐ on GitHub to support my work!
