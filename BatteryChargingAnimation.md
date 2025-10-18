@@ -28,7 +28,7 @@ This project showcases smooth charging effects, a lightning bolt animation, and 
    ```bash
    git clone https://github.com/King-luiz/battery-charging-animation.git
 ````
-
+````
 2. **Open the project**
    Navigate to the folder and open the file `index.html` in any modern web browser.
 
